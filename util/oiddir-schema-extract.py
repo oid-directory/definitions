@@ -153,7 +153,7 @@ nf = 'nameform ' # just guessing; not supported
 
 ## specify a header to place the the top of
 ## the output stream.
-header = '## OID Directory schema\n'
+header = '## OID Directory schema - EXPERIMENTAL USE ONLY\n'
 header = header + '## Formatted for ' + ftyp + '\n'
 header = header + '## Sourced from ' + doc + '\n##'
 
