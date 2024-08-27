@@ -6,7 +6,7 @@ All definitions found in the `schema` subdirectory were extracted directly from 
 
 ### Warning
 
-The subject matter extended by way of this I-D series is NOT approved by the IETF, and is presently available only for peer-review, PoC, testing and other non-production scenarios. Use at your own risk.
+The subject matter extended by way of this I-D series is NOT approved by the IETF, and is presently available only for experimental, peer-review, PoC, testing and other non-production scenarios. Use at your own risk!
 
 ### Other I-Ds in the series
 
