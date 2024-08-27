@@ -2,7 +2,7 @@
 
 This directory contains schema files and a converter script suitable for 389DS (Netscape) and OpenLDAP use.
 
-All definitions found in the `schema` subdirectory were extracted directly from [Section 2.3, 2.5 and 2.7 of `draft-coretta-oiddir-schema`](https://datatracker.ietf.org/doc/html/draft-coretta-oiddir-schema) using the `util/oiddir-schema-extract.py` script with default options.
+All definitions found in the `schema` subdirectory were extracted directly from [Section 2.3, 2.5 and 2.7 of `draft-coretta-oiddir-schema`](https://datatracker.ietf.org/doc/html/draft-coretta-oiddir-schema) using the [`oiddir-schema-extract.py`](https://gist.github.com/oid-directory/9289f02973c8ce8573a0625f8f4441d0) script with default options.
 
 ### Warning
 
