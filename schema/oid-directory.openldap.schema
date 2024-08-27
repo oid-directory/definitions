@@ -1,6 +1,6 @@
-## OID Directory schema
+## OID Directory schema - EXPERIMENTAL USE ONLY
 ## Formatted for openldap
-## Sourced from /home/jc/dev/oid-directory/id/draft-coretta-oiddir-schema-02.txt
+## Sourced from ~/dev/oid-directory/id/draft-coretta-oiddir-schema-02.txt
 ##
 # 103 attribute types
 #
